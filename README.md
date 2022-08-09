@@ -8,7 +8,7 @@ A little about me:
 - Natural from Aracruz, Brazil :brazil:
 - In my free time i like to play video games :video_game:, watch tv shows/movies :tv:, spend time with gf/family :couple: :family:
 
-Check my stats:
+Check my stats from last week:
 <!--START_SECTION:waka-->
 
 
