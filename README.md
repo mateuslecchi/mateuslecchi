@@ -8,14 +8,12 @@ A little about me:
 - Natural from Aracruz, Brazil :brazil:
 - In my free time i like to play video games :video_game:, watch tv shows/movies :tv:, spend time with gf/family :couple: :family:
 
-Check my stats from last week:
+### Work on Prefeitura Municipal de Aracruz
+
+
+
+Check my stats:
 <!--START_SECTION:waka-->
-
-
-
-
-
-
 <!--END_SECTION:waka-->
 
 
