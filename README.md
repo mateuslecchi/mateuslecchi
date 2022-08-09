@@ -13,11 +13,9 @@ A little about me:
 
 
 Check my stats:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuslecchi&theme=dark&show_icons=true)
 
 ### Let's talk
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuslecchi/)
