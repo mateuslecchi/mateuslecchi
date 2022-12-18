@@ -12,7 +12,7 @@ Check my stats from last week:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 10 December 2022 - To: 17 December 2022
 
 Total Time: 3 hrs 22 mins
 
