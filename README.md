@@ -12,7 +12,7 @@ Check my stats from last week:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 04 February 2023
+From: 29 January 2023 - To: 05 February 2023
 
 Total Time: 2 hrs 48 mins
 
