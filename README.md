@@ -12,12 +12,11 @@ Check my stats from last week:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2023 - To: 08 March 2023
+From: 02 March 2023 - To: 09 March 2023
 
-Total Time: 1 hr 13 mins
+Total Time: 1 hr 36 mins
 
-Bash              26 mins         ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.87 %
-Other             17 mins         ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.55 %
+Other             35 mins         ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.92 %
 ```
 
 <!--END_SECTION:waka-->
