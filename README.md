@@ -12,7 +12,7 @@ Check my stats from last week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2024 - To: 13 November 2024
+From: 07 November 2024 - To: 14 November 2024
 
 Total Time: 5 hrs 48 mins
 
