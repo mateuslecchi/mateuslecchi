@@ -12,7 +12,7 @@ Check my stats from last week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2025 - To: 22 June 2025
+From: 16 June 2025 - To: 23 June 2025
 
 Total Time: 2 hrs 6 mins
 
