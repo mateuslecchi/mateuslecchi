@@ -12,12 +12,11 @@ Check my stats from last week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2025 - To: 24 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
-Total Time: 2 hrs 6 mins
+Total Time: 0 secs
 
-PHP              2 hrs 5 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.67 %
-Blade Template   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
