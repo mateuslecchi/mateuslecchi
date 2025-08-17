@@ -8,20 +8,5 @@ A little about me:
 - Natural from Aracruz, Brazil :brazil:
 - In my free time i like to play video games :video_game:, watch tv shows/movies :tv:, spend time with gf/family :couple: :family:
 
-Check my stats from last week:
-<!--START_SECTION:waka-->
-
-```txt
-From: 09 August 2025 - To: 16 August 2025
-
-Total Time: 42 mins
-
-PHP        38 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀   88.48 %
-Markdown   3 mins          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.84 %
-Bash       1 min           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.68 %
-```
-
-<!--END_SECTION:waka-->
-
 ### Let's talk
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuslecchi/)
