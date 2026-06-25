@@ -4,7 +4,7 @@ A little about me:
 - Laravel developer.
 - I play with SBCs.
 - I graduated in Systems Analysis and Development from UVV (Vila Velha University).
-- Natural from Aracruz, Brazil :brazil:
+- Natural from Aracruz, Brasil :brazil:
 - In my free time i like to play video games :video_game:, watch tv shows/movies :tv:, spend time with gf/family :couple: :family:
 
 ### Let's talk
